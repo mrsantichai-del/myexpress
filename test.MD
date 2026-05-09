@@ -4,3 +4,15 @@ LINE_CHANNEL_ACCESS_TOKEN=XTeqs9N4z1t/1YEnHJtuqq9OEQ8YJPrDNLzkRl/OhCskhWxRQhnQFL
 
 
 ngrok config add-authtoken 3CzIXRKSEq9oyh1p1uGxNyc5Vng_ucFKXHCahu3vRUjLiT8m
+
+
+sudo mkdir -p /var/www/santichai.csbootstrap.com
+http://santichai.csbootstrap.com/
+
+sudo mkdir -p /var/www/santichai.csbootstrap.com
+
+cd /var/www/santichai.csbootstrap.com
+
+ git clone https://github.com/mrsantichai-del/myexpress
+
+ https://github.com/mrsantichai-del/myexpress
